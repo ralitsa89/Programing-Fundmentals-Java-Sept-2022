@@ -1,4 +1,4 @@
-package P20MapsLambdaAndStreamAPILab;
+package P20AssociativeArraysLab;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

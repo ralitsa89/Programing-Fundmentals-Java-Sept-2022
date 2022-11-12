@@ -1,4 +1,4 @@
-package P21MapsLambdaAndStreamAPIExercise;
+package P21AssociativeArraysExercise;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
